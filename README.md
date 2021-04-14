@@ -1,1 +1,1 @@
-# Demo-Adidas-Page
+# Theme-Adidas-Page
